@@ -1,5 +1,11 @@
 # postgresql and pgadmin4
 
+This is to run the containers for postgresql and pgadmin4.
+
+```bash
+docker-compose up
+```
+
 ## environment variables
 
 ```
